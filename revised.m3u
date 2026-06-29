@@ -35,11 +35,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
+#EXTGRP:Akash Bangla
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",NEWS24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTGRP:Akash Bangla
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Deepto
@@ -93,9 +95,11 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",T Sports 🇧🇩
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV Live 🇧🇩
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
+#EXTGRP:Akash Sports
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV B 🇧🇩
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+#EXTGRP:Akash Sports
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV B 🇧🇩
