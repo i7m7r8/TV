@@ -15,8 +15,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery Bangla
 http://103.180.212.191:3500/live/573.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery Hindi B
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id="discovery_hd" tvg-name="Discovery HD" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Toffee",Discovery HD
+#EXTGRP:Toffee
+https://sm-monirul.top/toffee/play/discovery_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",T Sports
