@@ -10,17 +10,15 @@ https://sm-monirul.top/toffee/play/sonyaath.m3u8
 https://sm-monirul.top/toffee/play/zee_bangla.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png",Wow Kidz Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg" group-title="Kids",1. Nickelodeon
+#EXTGRP:Kids
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery Bangla
+http://103.180.212.191:3500/live/573.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Discovery Hindi B
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="Akash Bangla",Nick Bangla
-#EXTGRP:Akash Bangla
-https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
-#EXTINF:-1 group-title="Akash Bangla",Discovery Bangla
-#EXTGRP:Akash Bangla
-http://103.180.212.191:3500/live/573.m3u8
-#EXTINF:-1 group-title="Akash Bangla",Sonic Bangla
-#EXTGRP:Akash Bangla
-https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",T Sports
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Jamuna TV
@@ -176,3 +174,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",T Sports HD 2
 http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bb2375af2d1ff8666f2c24fbcec3c541" group-title="Akash Bangla",Nick Bangla
+#EXTGRP:Akash Bangla
+https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
+#EXTINF:-1 group-title="Akash Bangla",Discovery Bangla
+#EXTGRP:Akash Bangla
+http://103.180.212.191:3500/live/573.m3u8
+#EXTINF:-1 group-title="Akash Bangla",Sonic Bangla
+#EXTGRP:Akash Bangla
+https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
